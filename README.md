@@ -86,7 +86,7 @@
 </p>
 
 <p align="center">
-⭐ <b>Hands-on AWS Projects with Real-World Cloud Architecture & Deployment</b> ⭐
+⭐ <b>AWS Projects with Real-World Cloud Architecture & Deployment</b> ⭐
 </p>
 
 <div align="center">
