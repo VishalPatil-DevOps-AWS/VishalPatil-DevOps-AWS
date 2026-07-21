@@ -1,8 +1,13 @@
 # VishalPatil-DevOps-AWS
-# Hi 👋 I'm Vishal Patil
+<div align="center">
+
+# 👋 Hi, I'm Vishal Patil
 
 ### 🚀 Aspiring DevOps Engineer | AWS Cloud Enthusiast
 
+<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=28&duration=2500&pause=1000&color=FF9900&center=true&vCenter=true&width=900&lines=Welcome+to+My+GitHub+Profile!;AWS+%7C+Linux+%7C+Docker+%7C+Kubernetes;DevOps+Engineer+in+Progress;Always+Learning+Something+New+🚀" />
+
+</div>
 
 ## Banner 
 
@@ -29,15 +34,7 @@
 <img src="https://skillicons.dev/icons?i=aws,linux,docker,kubernetes,terraform,jenkins,git,github,bash,python,mysql,vscode"/>
 </p>
 
-<div align="center">
 
-# 👋 Hi, I'm Vishal Patil
-
-### 🚀 Aspiring DevOps Engineer | AWS Cloud Enthusiast
-
-<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=28&duration=2500&pause=1000&color=FF9900&center=true&vCenter=true&width=900&lines=Welcome+to+My+GitHub+Profile!;AWS+%7C+Linux+%7C+Docker+%7C+Kubernetes;DevOps+Engineer+in+Progress;Always+Learning+Something+New+🚀" />
-
-</div>
 
 ---
 
