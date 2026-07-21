@@ -42,7 +42,7 @@
 
 <p align="center">
 
-**Cloud:**    AWS ☁️ &nbsp;•&nbsp; 
+<b>**Cloud:**</b>    AWS ☁️ &nbsp;•&nbsp; 
 
 **Operating Systems:**    Linux 🐧 &nbsp;•&nbsp; Windows
 
