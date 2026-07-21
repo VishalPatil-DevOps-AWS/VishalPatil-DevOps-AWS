@@ -88,7 +88,6 @@
 <p align="center">
 ⭐ <b>Hands-on AWS Projects with Real-World Cloud Architecture & Deployment</b> ⭐
 </p>
-## 📬 Contact Me
 
 <div align="center">
 
