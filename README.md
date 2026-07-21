@@ -124,6 +124,9 @@
 <p align="center">
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=800&color=39FF14&center=true&vCenter=true&width=900&lines=Email:+vp228459@gmail.com;Phone:+%2B91+7775051230;LinkedIn:+vishalpatil-devops-aws;GitHub:+VishalPatil-DevOps-AWS;Always+Open+for+Collaboration!" />
 </p>
+<p align="center">
+⭐ <b>Click on any project above to explore source code, documentation, architecture diagrams, and deployment steps.</b> ⭐
+</p>
 ---
 
 ⭐ **Thanks for visiting my profile!**
