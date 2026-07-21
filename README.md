@@ -28,12 +28,35 @@
 - Terraform
 - Git
 
-## 🛠️ Skills
+## 🛠️ Skills & Technologies
 
 <p align="center">
-<img src="https://skillicons.dev/icons?i=aws,linux,docker,kubernetes,terraform,jenkins,git,github,bash,python,mysql,vscode"/>
+
+<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=24&duration=2500&pause=1000&color=00C8FF&center=true&vCenter=true&width=900&lines=AWS+Cloud;Linux+Administration;Docker+%7C+Kubernetes;Terraform+%7C+Jenkins;Python+%7C+SQL;Git+%7C+GitHub;Always+Learning+New+Technologies+🚀" />
+
 </p>
 
+<p align="center">
+<img src="https://skillicons.dev/icons?i=aws,linux,docker,kubernetes,terraform,jenkins,git,github,bash,python,mysql,vscode,nginx,ansible" />
+</p>
+
+<p align="center">
+
+**Cloud:** AWS ☁️ &nbsp;•&nbsp; Azure ☁️
+
+**Operating Systems:** Linux 🐧 &nbsp;•&nbsp; Windows
+
+**DevOps:** Docker • Kubernetes • Terraform • Jenkins • Git • GitHub • Bash
+
+**Programming:** Python • SQL
+
+**Web Server:** Nginx • Apache
+
+**Monitoring:** CloudWatch • Grafana • Prometheus
+
+**Tools:** VS Code • GitHub Actions
+
+</p>
 
 
 ---
