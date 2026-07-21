@@ -42,19 +42,19 @@
 
 <p align="center">
 
-**Cloud:** AWS ☁️ &nbsp;•&nbsp; Azure ☁️
+**Cloud:**    AWS ☁️ &nbsp;•&nbsp; 
 
-**Operating Systems:** Linux 🐧 &nbsp;•&nbsp; Windows
+**Operating Systems:**    Linux 🐧 &nbsp;•&nbsp; Windows
 
-**DevOps:** Docker • Kubernetes • Terraform • Jenkins • Git • GitHub • Bash
+**DevOps:**       Docker • Kubernetes • Terraform • Jenkins • Git • GitHub • Bash
 
-**Programming:** Python • SQL
+**Programming:**     Python • SQL • core JAVA • C++
 
-**Web Server:** Nginx • Apache
+**Web Server:**     Nginx • Apache
 
-**Monitoring:** CloudWatch • Grafana • Prometheus
+**Monitoring:**   CloudWatch 
 
-**Tools:** VS Code • GitHub Actions
+**Tools:**     VS Code • GitHub Actions • TextPad8
 
 </p>
 
