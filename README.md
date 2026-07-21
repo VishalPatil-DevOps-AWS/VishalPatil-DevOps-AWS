@@ -19,14 +19,16 @@
 
 ## 👨‍💻 About Me
 
-- 🎓 B.Sc. Computer Science
-- ☁️ Learning AWS & DevOps
-- 🐧 Linux Enthusiast
-- 🐳 Docker | Kubernetes
-- Kubernetes
-- Jenkins
-- Terraform
-- Git
+- 🎓 B.Sc. in Computer Science Graduate
+- ☁️ Aspiring DevOps Engineer & AWS Cloud Enthusiast
+- 🐳 Building and Deploying Applications with Docker
+- ☸️ Learning Kubernetes for Container Orchestration
+- ⚙️ Automating Infrastructure using Terraform
+- 🔄 Exploring CI/CD Pipelines with Jenkins
+- 🌿 Version Control using Git & GitHub
+- 🐍 Programming with Python ,SQL , core JAVA , C , C++
+- 🚀 Passionate about Cloud Computing, Automation & Infrastructure as Code
+- 📚 Continuously Learning and Building Real-World DevOps Projects
 
 ## 🛠️ Skills & Technologies
 
