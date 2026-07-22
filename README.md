@@ -112,7 +112,7 @@
 
 | 📄 Document | 🔗 Description |
 |-------------|---------------|
-| 📄 Resume | [View Resume]([VishalPatil-DevOps--AWS-7775051230.pdf](https://github.com/user-attachments/files/30270512/VishalPatil-DevOps--AWS-7775051230.pdf)
+| 📄 Resume | [View Resume](https://github.com/user-attachments/files/30270512/VishalPatil-DevOps--AWS-7775051230.pdf)
 ) |
 | 🏆 AWS Educate Getting Started with Compute - Training Badge | [View Badge](https://www.credly.com/badges/5635f8d9-b755-414c-a47f-a20f5cdbcbd0/public_url) |
 | 🏆 AWS Educate Getting Started with Storage - Training Badge | [View Badge](https://www.credly.com/badges/c4d0ea0b-4a95-42e7-a684-273fdaab1735/public_url) |
