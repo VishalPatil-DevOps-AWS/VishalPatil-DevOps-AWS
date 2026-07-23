@@ -107,9 +107,9 @@
 </div>
 
 
-## 📂 Documents & Resources
+## 📂 Documents & Provides Links
 
-| 📄 Document | 🔗 Description |
+| 📄 Document | 🔗 Link  |
 |-------------|---------------|
 | 📄 Resume | [View Resume](https://github.com/user-attachments/files/30270512/VishalPatil-DevOps--AWS-7775051230.pdf)|
 | 🏆 AWS Educate Getting Started with Compute - Training Badge | [View Badge](https://www.credly.com/badges/5635f8d9-b755-414c-a47f-a20f5cdbcbd0/public_url) |
