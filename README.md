@@ -115,7 +115,7 @@
 
 ### 🚀 Explore My DevOps Journey
 
-From cloud infrastructure to automation, this portfolio showcases my hands-on experience with **AWS, Linux, Docker, Kubernetes, Terraform, Jenkins, CI/CD, Cloud Monitoring**, and production-inspired DevOps projects.
+From cloud infrastructure to automation, this portfolio showcases my hands-on experience with **AW ELB, S3 service ,  Linux, , Cloud Monitoring and SNS notification Management**, and production-inspired DevOps projects.
 
 </div>
 
