@@ -106,8 +106,8 @@
 <img src="https://img.shields.io/badge/🌐%20Visit%20My%20Portfolio-FF9900?style=for-the-badge&logo=google-chrome&logoColor=white"/>
 </a>
 </p>
----
 
+---
 
 <p align="center">
 
