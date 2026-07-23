@@ -95,6 +95,58 @@
 <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=22&duration=2500&pause=1000&color=00C8FF&center=true&vCenter=true&width=900&lines=Let's+Connect!;Open+to+Work;Cloud+%26+DevOps+Engineer" />
 
 <br><br>
+import { motion } from "framer-motion";
+import { Briefcase, ExternalLink } from "lucide-react";
+
+export default function PortfolioSection() {
+  return (
+    <section id="portfolio" className="py-24 px-6">
+      <div className="max-w-5xl mx-auto">
+        <motion.div
+          initial={{ opacity: 0, y: 60 }}
+          whileInView={{ opacity: 1, y: 0 }}
+          viewport={{ once: true }}
+          transition={{ duration: 0.8 }}
+          className="rounded-3xl border border-cyan-500/20 bg-white/5 backdrop-blur-xl shadow-[0_0_40px_rgba(0,200,255,0.15)] p-10 text-center hover:shadow-[0_0_60px_rgba(255,153,0,0.35)] transition-all duration-500"
+        >
+          {/* Icon */}
+          <div className="flex justify-center mb-6">
+            <div className="w-20 h-20 rounded-full bg-gradient-to-r from-orange-500 to-cyan-400 flex items-center justify-center shadow-lg animate-pulse">
+              <Briefcase size={36} className="text-white" />
+            </div>
+          </div>
+
+          {/* Title */}
+          <h2 className="text-4xl font-bold text-white mb-4">
+            📂 My Portfolio
+          </h2>
+
+          {/* Description */}
+          <p className="text-gray-300 text-lg leading-8 max-w-3xl mx-auto mb-10">
+            Explore my <span className="text-orange-400 font-semibold">DevOps Projects</span>,
+            <span className="text-cyan-400 font-semibold"> Cloud Solutions</span>,
+            <span className="text-orange-400 font-semibold"> Certifications</span>,
+            and
+            <span className="text-cyan-400 font-semibold"> Technical Skills</span>.
+          </p>
+
+          {/* Button */}
+          <motion.a
+            whileHover={{ scale: 1.08 }}
+            whileTap={{ scale: 0.95 }}
+            href="https://your-portfolio-link.com"
+            target="_blank"
+            rel="noopener noreferrer"
+            className="inline-flex items-center gap-3 px-8 py-4 rounded-full bg-gradient-to-r from-orange-500 to-cyan-500 text-white font-semibold text-lg shadow-lg hover:shadow-[0_0_35px_rgba(255,153,0,0.6)] transition-all duration-300"
+          >
+            🚀 Visit My Portfolio
+            <ExternalLink size={20} />
+          </motion.a>
+        </motion.div>
+      </div>
+    </section>
+  );
+}
 
 <a href="https://www.linkedin.com/in/vishalpatil-devops-aws/">
 <img src="https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
@@ -105,26 +157,6 @@
 </a>
 
 </div>
-Add a new "Portfolio" section to my website.
-
-Requirements:
-- Create a premium glassmorphism card.
-- Add a portfolio icon.
-- Display the title: "My Portfolio".
-- Show the description:
-  "Explore my DevOps projects, cloud solutions, certifications, and technical skills."
-
-- Add a large glowing button:
-  🚀 Visit My Portfolio
-
-- The button should open:
-  https://your-portfolio-link.com
-
-- Add hover animation and glowing effects.
-- Add a smooth fade-in animation when scrolling.
-- Match the existing AWS Orange and Neon Blue theme.
-- Make it fully responsive for mobile, tablet, and desktop.
-
 
 ## 📂 Documents & Provides Links
 
