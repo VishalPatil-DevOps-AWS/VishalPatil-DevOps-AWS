@@ -105,6 +105,25 @@
 </a>
 
 </div>
+Add a new "Portfolio" section to my website.
+
+Requirements:
+- Create a premium glassmorphism card.
+- Add a portfolio icon.
+- Display the title: "My Portfolio".
+- Show the description:
+  "Explore my DevOps projects, cloud solutions, certifications, and technical skills."
+
+- Add a large glowing button:
+  🚀 Visit My Portfolio
+
+- The button should open:
+  https://your-portfolio-link.com
+
+- Add hover animation and glowing effects.
+- Add a smooth fade-in animation when scrolling.
+- Match the existing AWS Orange and Neon Blue theme.
+- Make it fully responsive for mobile, tablet, and desktop.
 
 
 ## 📂 Documents & Provides Links
