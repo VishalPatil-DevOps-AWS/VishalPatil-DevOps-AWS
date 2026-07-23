@@ -102,7 +102,7 @@
 </p>
 
 <p align="center">
-<a href="my-folio-refresh.lovable.app ">
+<a href="my-folio-refresh.lovable.app">
 <img src="https://img.shields.io/badge/🌐%20Visit%20My%20Portfolio-FF9900?style=for-the-badge&logo=google-chrome&logoColor=white"/>
 </a>
 </p>
