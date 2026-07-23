@@ -97,15 +97,101 @@
 <br><br> 
 
 ---
+<!-- ===================== PORTFOLIO ===================== -->
+
+<h1 align="center">🌍 My Professional Portfolio</h1>
+
 <p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=26&duration=2500&pause=1000&color=FF9900&center=true&vCenter=true&width=900&lines=🚀+Visit+My+Professional+Portfolio;Explore+My+DevOps+Journey;Cloud+Projects+%7C+AWS+%7C+Automation;Click+the+Button+Below+👇" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&weight=700&size=30&duration=2500&pause=800&color=FF9900&center=true&vCenter=true&width=1000&lines=Welcome+to+My+Digital+Portfolio!;AWS+Cloud+%7C+DevOps+Engineer;Building+Scalable+Cloud+Solutions;Infrastructure+Automation+%26+CI%2FCD;Turning+Ideas+Into+Production+🚀" />
 </p>
 
 <p align="center">
-<a href="https://my-folio-refresh.lovable.app" target="_blank">
-<img src="https://img.shields.io/badge/🌐%20Visit%20My%20Portfolio-FF9900?style=for-the-badge&logo=google-chrome&logoColor=white"/>
-</a>
+<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=20&duration=3500&pause=1000&color=00C8FF&center=true&vCenter=true&width=900&lines=☁️+AWS+Projects;🐧+Linux+Administration;🐳+Docker+%7C+☸️+Kubernetes;⚙️+Terraform+%7C+Jenkins;📊+CloudWatch+%26+Amazon+SNS;🚀+Real+World+DevOps+Projects" />
 </p>
+
+---
+
+<div align="center">
+
+### 🚀 Explore My DevOps Journey
+
+From cloud infrastructure to automation, this portfolio showcases my hands-on experience with **AWS, Linux, Docker, Kubernetes, Terraform, Jenkins, CI/CD, Cloud Monitoring**, and production-inspired DevOps projects.
+
+</div>
+
+<br>
+
+<p align="center">
+
+<a href="https://my-folio-refresh.lovable.app" target="_blank">
+<p align="center">
+
+<a href="https://my-folio-refresh.lovable.app" target="_blank">
+<img src="https://img.shields.io/badge/🚀%20Click To Visit My%20MY%20PORTFOLIO-FF6B00?style=for-the-badge&logo=vercel&logoColor=white&labelColor=111827"/>
+</a>
+
+</p>
+</a>
+
+&nbsp;
+
+<a href="https://github.com/VishalPatil-DevOps-AWS" target="_blank">
+<img src="https://img.shields.io/badge/💻%20GitHub%20Repositories-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+&nbsp;
+
+<a href="https://www.linkedin.com/in/vishalpatil-devops-aws/" target="_blank">
+<img src="https://img.shields.io/badge/💼%20LinkedIn%20Profile-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+</p>
+
+---
+
+## ✨ What You'll Find
+
+<table align="center">
+<tr>
+<td>☁️ AWS Cloud Projects</td>
+<td>🚀 DevOps Automation</td>
+</tr>
+
+<tr>
+<td>🐧 Linux Administration</td>
+<td>🐳 Docker Containers</td>
+</tr>
+
+<tr>
+<td>☸️ Kubernetes Deployments</td>
+<td>🌍 Terraform (IaC)</td>
+</tr>
+
+<tr>
+<td>⚙️ Jenkins CI/CD</td>
+<td>📊 CloudWatch & SNS</td>
+</tr>
+
+<tr>
+<td>🪣 Amazon S3 Hosting</td>
+<td>📜 Technical Documentation</td>
+</tr>
+
+<tr>
+<td>🏆 Certifications</td>
+<td>📄 Professional Resume</td>
+</tr>
+</table>
+
+---
+
+<p align="center">
+
+⭐ **Click on "Launch Portfolio" to explore my complete DevOps portfolio, real-world AWS projects, cloud architecture, technical documentation, and continuous learning journey.**
+
+</p>
+
+<!-- ===================== END ===================== -->
 
 ---
 
