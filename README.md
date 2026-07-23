@@ -95,7 +95,7 @@
 <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=22&duration=2500&pause=1000&color=00C8FF&center=true&vCenter=true&width=900&lines=Let's+Connect!;Open+to+Work;Cloud+%26+DevOps+Engineer" />
 
 <br><br> 
-}
+
 
 <a href="https://www.linkedin.com/in/vishalpatil-devops-aws/">
 <img src="https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
