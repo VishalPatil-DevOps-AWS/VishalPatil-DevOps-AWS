@@ -151,8 +151,38 @@
 
 
 
+<!-- ================= Portfolio Section ================= -->
+
+<h2 align="center">🌍 My Portfolio</h2>
+
+<p align="center">
+<img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&weight=700&size=28&duration=2500&pause=1000&color=FF9900&center=true&vCenter=true&width=1000&lines=🚀+Explore+My+Professional+Portfolio;AWS+Cloud+%7C+DevOps+Engineer;Real-World+Projects+%26+Automation;Click+Below+to+Visit+My+Portfolio" />
+</p>
+
 <p align="center">
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&weight=700&size=34&duration=2500&pause=800&color=FF9900&center=true&vCenter=true&width=1000&lines=Hi+👋,+I'm+Vishal+Patil;AWS+Cloud+Engineer;DevOps+Engineer;Linux+%7C+Docker+%7C+Kubernetes;Infrastructure+Automation;Always+Learning+New+Technologies🚀"/>
+<a href="https://my-folio-refresh.lovable.app" target="_blank">
+<img src="https://img.shields.io/badge/🌐%20Visit%20My%20Portfolio-FF9900?style=for-the-badge&logo=google-chrome&logoColor=white"/>
+</a>
+
+<a href="https://github.com/VishalPatil-DevOps-AWS" target="_blank">
+<img src="https://img.shields.io/badge/💻%20GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+<a href="https://www.linkedin.com/in/vishalpatil-devops-aws/" target="_blank">
+<img src="https://img.shields.io/badge/💼%20LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
 
 </p>
+
+<p align="center">
+
+<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=22&duration=3000&pause=1200&color=00C8FF&center=true&vCenter=true&width=900&lines=✨+Production+Ready+AWS+Projects;☁️+Cloud+Architecture;⚙️+DevOps+Automation;🐳+Docker+%7C+☸️+Kubernetes;🚀+Infrastructure+as+Code;📈+Continuous+Learning" />
+
+</p>
+
+<p align="center">
+⭐ <b>Explore my professional portfolio featuring AWS, DevOps, Linux, Docker, Kubernetes, Terraform, CI/CD, and real-world cloud projects.</b> ⭐
+</p>
+
+<hr>
