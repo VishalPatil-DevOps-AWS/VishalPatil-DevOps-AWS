@@ -116,36 +116,7 @@ export default function PortfolioSection() {
             </div>
           </div>
 
-          {/* Title */}
-          <h2 className="text-4xl font-bold text-white mb-4">
-            📂 My Portfolio
-          </h2>
-
-          {/* Description */}
-          <p className="text-gray-300 text-lg leading-8 max-w-3xl mx-auto mb-10">
-            Explore my <span className="text-orange-400 font-semibold">DevOps Projects</span>,
-            <span className="text-cyan-400 font-semibold"> Cloud Solutions</span>,
-            <span className="text-orange-400 font-semibold"> Certifications</span>,
-            and
-            <span className="text-cyan-400 font-semibold"> Technical Skills</span>.
-          </p>
-
-          {/* Button */}
-          <motion.a
-            whileHover={{ scale: 1.08 }}
-            whileTap={{ scale: 0.95 }}
-            href="https://your-portfolio-link.com"
-            target="_blank"
-            rel="noopener noreferrer"
-            className="inline-flex items-center gap-3 px-8 py-4 rounded-full bg-gradient-to-r from-orange-500 to-cyan-500 text-white font-semibold text-lg shadow-lg hover:shadow-[0_0_35px_rgba(255,153,0,0.6)] transition-all duration-300"
-          >
-            🚀 Visit My Portfolio
-            <ExternalLink size={20} />
-          </motion.a>
-        </motion.div>
-      </div>
-    </section>
-  );
+         
 }
 
 <a href="https://www.linkedin.com/in/vishalpatil-devops-aws/">
