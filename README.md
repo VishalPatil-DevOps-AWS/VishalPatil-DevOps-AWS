@@ -105,23 +105,8 @@
 <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&weight=700&size=30&duration=2500&pause=800&color=FF9900&center=true&vCenter=true&width=1000&lines=Welcome+to+My+Digital+Portfolio!;AWS+Cloud+%7C+DevOps+Engineer;Building+Scalable+Cloud+Solutions;Infrastructure+Automation+%26+CI%2FCD;Turning+Ideas+Into+Production+🚀" />
 </p>
 
-<p align="center">
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&weight=700&size=24&duration=2500&pause=700&color=FF9900&center=true&vCenter=true&width=1000&lines=☁️+Architecting+Cloud+Solutions;🚀+Automating+Infrastructure;⚙️+Building+CI%2FCD+Pipelines;🐳+Managing+Containers;☸️+Scaling+Applications;📊+Monitoring+Everything"/>
 
-</p>
-
-<p align="center">
-
-🚀 **Cloud First** • ⚙️ **Automation Driven** • ☁️ **AWS Powered** • 📈 **Always Learning**
-
-</p>
-
-<p align="center">
-
-🚀 **Cloud First** • ⚙️ **Automation Driven** • ☁️ **AWS Powered** • 📈 **Always Learning**
-
-</p>
 
 ---
 
