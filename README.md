@@ -106,7 +106,15 @@
 </p>
 
 <p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=20&duration=3500&pause=1000&color=00C8FF&center=true&vCenter=true&width=900&lines=☁️+AWS+Projects;🐧+Linux+Administration;🐳+Docker+%7C+☸️+Kubernetes;⚙️+Terraform+%7C+Jenkins;📊+CloudWatch+%26+Amazon+SNS;🚀+Real+World+DevOps+Projects" />
+
+<img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&weight=700&size=24&duration=2500&pause=700&color=FF9900&center=true&vCenter=true&width=1000&lines=☁️+Architecting+Cloud+Solutions;🚀+Automating+Infrastructure;⚙️+Building+CI%2FCD+Pipelines;🐳+Managing+Containers;☸️+Scaling+Applications;📊+Monitoring+Everything"/>
+
+</p>
+
+<p align="center">
+
+🚀 **Cloud First** • ⚙️ **Automation Driven** • ☁️ **AWS Powered** • 📈 **Always Learning**
+
 </p>
 
 ---
@@ -135,15 +143,15 @@ From cloud infrastructure to automation, this portfolio showcases my hands-on ex
 
 &nbsp;
 
-<a href="https://github.com/VishalPatil-DevOps-AWS" target="_blank">
-<img src="https://img.shields.io/badge/💻%20GitHub%20Repositories-181717?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
+
 
 &nbsp;
 
-<a href="https://www.linkedin.com/in/vishalpatil-devops-aws/" target="_blank">
-<img src="https://img.shields.io/badge/💼%20LinkedIn%20Profile-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
+<p align="center">
+
+<img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&weight=700&size=22&duration=2200&pause=800&color=00C8FF&center=true&vCenter=true&width=950&lines=☁️;⚙️+CI%2FCD+Automation;🌍+Infrastructure+as+Code;🚀+Always+Building+Something+New"/>
+
+</p>
 
 </p>
 
