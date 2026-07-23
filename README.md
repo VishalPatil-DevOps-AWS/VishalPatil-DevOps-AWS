@@ -117,6 +117,12 @@
 
 </p>
 
+<p align="center">
+
+🚀 **Cloud First** • ⚙️ **Automation Driven** • ☁️ **AWS Powered** • 📈 **Always Learning**
+
+</p>
+
 ---
 
 <div align="center">
