@@ -94,29 +94,7 @@
 
 <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=22&duration=2500&pause=1000&color=00C8FF&center=true&vCenter=true&width=900&lines=Let's+Connect!;Open+to+Work;Cloud+%26+DevOps+Engineer" />
 
-<br><br>
-import { motion } from "framer-motion";
-import { Briefcase, ExternalLink } from "lucide-react";
-
-export default function PortfolioSection() {
-  return (
-    <section id="portfolio" className="py-24 px-6">
-      <div className="max-w-5xl mx-auto">
-        <motion.div
-          initial={{ opacity: 0, y: 60 }}
-          whileInView={{ opacity: 1, y: 0 }}
-          viewport={{ once: true }}
-          transition={{ duration: 0.8 }}
-          className="rounded-3xl border border-cyan-500/20 bg-white/5 backdrop-blur-xl shadow-[0_0_40px_rgba(0,200,255,0.15)] p-10 text-center hover:shadow-[0_0_60px_rgba(255,153,0,0.35)] transition-all duration-500"
-        >
-          {/* Icon */}
-          <div className="flex justify-center mb-6">
-            <div className="w-20 h-20 rounded-full bg-gradient-to-r from-orange-500 to-cyan-400 flex items-center justify-center shadow-lg animate-pulse">
-              <Briefcase size={36} className="text-white" />
-            </div>
-          </div>
-
-         
+<br><br> 
 }
 
 <a href="https://www.linkedin.com/in/vishalpatil-devops-aws/">
