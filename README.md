@@ -147,3 +147,12 @@
 ---
 
 ⭐ **Thanks for visiting my profile!**
+
+
+
+
+<p align="center">
+
+<img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&weight=700&size=34&duration=2500&pause=800&color=FF9900&center=true&vCenter=true&width=1000&lines=Hi+👋,+I'm+Vishal+Patil;AWS+Cloud+Engineer;DevOps+Engineer;Linux+%7C+Docker+%7C+Kubernetes;Infrastructure+Automation;Always+Learning+New+Technologies🚀"/>
+
+</p>
