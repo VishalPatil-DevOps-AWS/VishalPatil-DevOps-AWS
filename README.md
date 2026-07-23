@@ -95,7 +95,63 @@
 <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=22&duration=2500&pause=1000&color=00C8FF&center=true&vCenter=true&width=900&lines=Let's+Connect!;Open+to+Work;Cloud+%26+DevOps+Engineer" />
 
 <br><br> 
+# 📂 My Portfolio
 
+<p align="center">
+
+<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=26&duration=3000&pause=1000&color=FF9900&center=true&vCenter=true&width=900&lines=Welcome+to+My+Professional+Portfolio;AWS+Cloud+%7C+DevOps+Engineer;Real-World+Projects+%26+Cloud+Solutions;Explore+My+Work+Below+🚀"/>
+
+</p>
+
+<p align="center">
+
+Welcome to my professional portfolio showcasing my **AWS Projects**, **Cloud Solutions**, **DevOps Skills**, **Technical Documentation**, and **Certifications**.
+
+</p>
+
+---
+
+## 🚀 Portfolio Highlights
+
+- ☁️ AWS Cloud Projects
+- 🐧 Linux Administration
+- 🐳 Docker & Kubernetes
+- 🌍 Terraform & Infrastructure as Code
+- ⚙️ Jenkins CI/CD
+- 📊 CloudWatch & Amazon SNS Monitoring
+- 🌐 Amazon S3 Static Website Hosting
+- 📄 Professional Resume
+- 🏆 Certifications
+
+---
+
+<p align="center">
+
+<a href="https://github.com/VishalPatil-DevOps-AWS?tab=repositories">
+<img src="https://img.shields.io/badge/🚀%20Explore%20My%20Projects-FF9900?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+<a href="https://github.com/VishalPatil-DevOps-AWS">
+<img src="https://img.shields.io/badge/💻%20GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+<a href="https://www.linkedin.com/in/vishalpatil-devops-aws/">
+<img src="https://img.shields.io/badge/💼%20LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="YOUR_RESUME_LINK">
+<img src="https://img.shields.io/badge/📄%20Download%20Resume-EA4335?style=for-the-badge&logo=adobeacrobatreader&logoColor=white"/>
+</a>
+
+</p>
+
+---
+
+<p align="center">
+
+⭐ **Building Scalable • Secure • Automated Cloud Solutions**
+
+</p>
 
 <a href="https://www.linkedin.com/in/vishalpatil-devops-aws/">
 <img src="https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
