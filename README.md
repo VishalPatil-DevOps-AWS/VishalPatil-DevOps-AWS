@@ -21,16 +21,24 @@
 
 ## 👨‍💻 About Me
 
-- 🎓 B.Sc. in Computer Science Graduate
-- ☁️ Aspiring DevOps Engineer & AWS Cloud Enthusiast
-- 🐳 Building and Deploying Applications with Docker
-- ☸️ Learning Kubernetes for Container Orchestration
-- ⚙️ Automating Infrastructure using Terraform
-- 🔄 Exploring CI/CD Pipelines with Jenkins
-- 🌿 Version Control using Git & GitHub
-- 🐍 Programming with Python ,SQL , core JAVA , C , C++
-- 🚀 Passionate about Cloud Computing, Automation & Infrastructure as Code
-- 📚 Continuously Learning and Building Real-World DevOps Projects
+🎓 B.Sc. Computer Science Graduate with a growing foundation in DevOps and Cloud Computing. Currently developing practical skills in AWS, Linux, Docker, Git, Jenkins, and CI/CD through hands-on projects and continuous learning.
+ 
+I am passionate about cloud technologies, automation, and modern software deployment practices. Committed to expanding my technical expertise and contributing to innovative teams while building a successful career in DevOps and Cloud Engineering. ♾️
+
+💠What i work with 
+ 🔸AWS (EC2, VPC, S3, IAM, RDS)
+ 🔸Linux (Amazon Linux & Ubuntu)
+ 🔸Application Load Balancer (ALB) , Auto Scaling
+ 🔸CloudWatch & SNS 
+ 🔸Nginx Web Server
+ 🔸Networking , Security Groups , VPC Peering & DNs
+
+Passionate about creating cloud solutions that are simple, resilient, and production-ready.
+
+🚀 Seeking opportunities to learn, grow, and create value in the Cloud & DevOps domain. ☁️♾️
+ 
+Learning | Building | Automating | Growing 📈💡
+
 
 ## 🛠️ Skills & Technologies
 
