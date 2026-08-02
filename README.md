@@ -137,7 +137,7 @@ From cloud infrastructure to automation, this portfolio showcases my hands-on ex
 <p align="center">
 
 <a href="https://my-folio-refresh.lovable.app" target="_blank">
-<img src="https://img.shields.io/badge/🚀%20Click To Visit My%20MY%20PORTFOLIO-FF6B00?style=for-the-badge&logo=vercel&logoColor=white&labelColor=111827"/>
+<img src="https://img.shields.io/badge/🚀%20Click To Visit %20MY%20PORTFOLIO-FF6B00?style=for-the-badge&logo=vercel&logoColor=white&labelColor=111827"/>
 </a>
 
 </p>
