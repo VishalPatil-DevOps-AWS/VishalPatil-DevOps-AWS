@@ -221,10 +221,6 @@ From cloud infrastructure to automation, this portfolio showcases my hands-on ex
 
 
 
-[KomalBagal-7498364446.pdf](https://github.com/user-attachments/files/30358059/KomalBagal-7498364446.pdf)
-
-
-
 
 
 
